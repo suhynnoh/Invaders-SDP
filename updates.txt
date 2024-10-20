@@ -1,4 +1,4 @@
-
+test
 update note (24.10.04) --Sebin Cho
 add UI about coin and store system
     -- current coin indicator
